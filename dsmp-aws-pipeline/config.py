@@ -4,12 +4,12 @@ MAILHOG_LIMIT = 50
 
 # ── Mattermost ────────────────────────────────────────
 MM_BASE_URL = "http://localhost:8065/api/v4"
-MM_USERNAME = "meenakshsri"
-MM_PASSWORD = "Srime220197"
+MM_USERNAME = "YOUR_USERNAME"
+MM_PASSWORD = "YOUR_PASSWORD"
 
 # ── AWS S3 ────────────────────────────────────────────
-AWS_ACCESS_KEY    = "AKIA3YAD5XW5QX5TBKIB"
-AWS_SECRET_KEY    = "ti0lZChIeJppB5ji5xU87BiyAyaOh0VPEhJWWJrJ"
+AWS_ACCESS_KEY    = "YOUR_AWS_ACCESS_KEY_ID"
+AWS_SECRET_KEY    = "YOUR_AWS_SECRET_ACCESS_KEY"
 AWS_REGION        = "ap-south-1"
 
 # ── S3 Bucket Names ───────────────────────────────────
